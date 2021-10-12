@@ -30,7 +30,7 @@
     p.mb-5 Sin embargo, para realizar la venta de manera adecuada e influenciar el éxito de la misma, las ventas deben verse de forma integral. Por ello, se han definido, tres momentos secuenciales: <b><span class='txt-1'>preventa, venta y posventa,</span></b> en los cuales se desarrolla el ciclo comercial:
 
     TabsC.color-acento-contenido.mb-5.fnd-i
-      .tarjeta.fnd-3.p-4(titulo="Preventa")
+      .tarjeta.p-4(titulo="Preventa")
         .row.mb-4.align-self-center(data-aos="fade-left")
           .col-lg-5
             figure
@@ -39,7 +39,7 @@
             p La preventa es el momento previo a la venta. En esta etapa el vendedor define quiénes son sus clientes potenciales, de allí extrae aquellos con mayor probabilidad de éxito (llamados clientes prospectos), los contacta, genera el acercamiento, detecta su necesidad y prepara el tipo de oferta (portafolio) a presentar.
             p Una buena preventa tiene gran componente de trabajo previo al contacto con el cliente prospecto, dado que se debe tener buen conocimiento del portafolio de productos, se debe investigar sobre el perfil del cliente y se debe propender por generar un acercamiento muy asertivo y respetuoso.
 
-      .tarjeta.fnd-3.p-4(titulo="Venta")
+      .tarjeta.p-4(titulo="Venta")
         .row.mb-4.align-self-center(data-aos="fade-left")
 
           .col-lg-7.img-c.pll.align-self-center
@@ -47,7 +47,7 @@
           .col-lg-5
             figure
               img.img-350(src='@/assets/tema2/img-3.png')            
-      .tarjeta.fnd-3.p-4(titulo="Posventa")
+      .tarjeta.p-4(titulo="Posventa")
         .row.mb-4.align-self-center(data-aos="fade-left")
           .col-lg-5
             figure

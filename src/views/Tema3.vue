@@ -54,35 +54,30 @@
     .row.mb-5.justify-content-around
       .col-md-6.col-lg.t-tabla.p-4(data-aos="slide-up")
         .row.justify-content-center.mb-3
-          .col-4
-            img(src='@/assets/tema3/img-3.svg' alt='AvatarTop')
+            img.img-100(src='@/assets/tema3/img-3.svg' alt='AvatarTop')
 
         p En un proceso de comunicación comercial, el emisor es el vendedor y el <b>receptor es el cliente potencial.</b>
 
       .col-md-6.col-lg.t-tabla.p-4(data-aos="slide-down")
         .row.justify-content-center.mb-3
-          .col-4
-            img(src='@/assets/tema3/img-4.svg' alt='AvatarTop')
+            img.img-100(src='@/assets/tema3/img-4.svg' alt='AvatarTop')
 
         p.txt-2 Debe tenerse presente que es tan importante<b> la comunicación verbal</b> como la <b>comunicación no verbal.</b>
 
       .col-md-6.col-lg.t-tabla.p-4(data-aos="slide-up")
         .row.justify-content-center.mb-3
-          .col-4
-            img(src='@/assets/tema3/img-5.svg' alt='AvatarTop')
+            img.img-100(src='@/assets/tema3/img-5.svg' alt='AvatarTop')
         
         p El lenguaje que emite el emisor debe basarse en <b>códigos entendibles para el receptor.</b> Se debe prestar especial atención a los tecnicismos.
 
       .col-md-6.col-lg.t-tabla.p-4(data-aos="slide-down")
         .row.justify-content-center.mb-3
-          .col-4
-            img(src='@/assets/tema3/img-6.svg' alt='AvatarTop')
+            img.img-100(src='@/assets/tema3/img-6.svg' alt='AvatarTop')
 
         p.txt-2 Aplicar la <b>empatía</b>, permitirá tener un mejor resultado, ponerse en el lugar del otro, es un buen principio para entablar una comunicación comercial.
       .col-md-6.col-lg.t-tabla.p-4(data-aos="slide-up")
         .row.justify-content-center.mb-3
-          .col-4
-            img(src='@/assets/tema3/img-7.svg' alt='AvatarTop')
+            img.img-100(src='@/assets/tema3/img-7.svg' alt='AvatarTop')
 
         p Una buena comunicación comercial debe permitir llegar al <b>cierre de la venta.</b>
 

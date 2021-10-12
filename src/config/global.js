@@ -121,12 +121,6 @@ export default {
     ],
     subMenu: [
       {
-        nombreRuta: 'actividad',
-        icono: 'far fa-question-circle',
-        titulo: 'Actividad didáctica',
-        desarrolloContenidos: true,
-      },
-      {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
@@ -156,141 +150,116 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
+        'Ardila, E. (1984), Técnicas de ventas: objeciones.  Servicio Nacional de Aprendizaje. p. 9- 12.',
+      link: 'https://hdl.handle.net/11404/1900',
+    },
+    {
+      referencia:
+        'Diccionario de la Real Academia de la Lengua Española- RAE-.. Término Objeción. objeción | Definición | Diccionario de la lengua española | RAE - ASALE',
+      link: 'https://dle.rae.es/?w=objeci%C3%B3n&origen=REDLE',
+    },
+
+    {
+      referencia:
+        'Muñoz, J.; Gutiérrez, P. y Serrato, R. (2012). Los hemisferios cerebrales: dos estilos de pensar, dos modos de enseñar y aprender. Estilos de aprendizaje. Investigaciones y experiencias. Universidad de Córdoba.',
+      link: 'https://dialnet.unirioja.es/descarga/articulo/4664049.pdf',
+    },
+    {
+      referencia:
+        'Navarro, M. (2012). Técnicas de Ventas. Red Tercer Milenio. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'http://www.aliat.org.mx/BibliotecasDigitales/economico_administrativo/Tecnicas_de_venta.pdf',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
-    },
-    {
-      referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
-    },
-    {
-      referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
-    },
-    {
-      referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
-    },
-    {
-      referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'Piqueras, C. (2020). El gran libro de la venta telefónica. Profit Editorial.',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Agente de ventas telefónicas',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'Es el vendedor que realiza ventas a distancia, utilizando la telefonía como medio de contacto.',
     },
     {
-      termino: 'Suftware',
-      terminoHtml: '<em>Suftware</em>',
+      termino: 'Ciclo de venta',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Secuencia de procesos en los cuales debe desarrollarse un proceso comercial estructurado. Está compuesto por: preventa, venta y posventa.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Cliente',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'Es el centro de la estrategia de mercadeo y ventas de una empresa. Representa a la persona o empresa que adquiere los bienes y servicios.',
     },
     {
-      termino: 'Áectores',
-      terminoHtml: '<em>Áectores</em>',
+      termino: 'Comunicación comercial',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'Proceso en el que a partir de un emisor (quien emite el mensaje) y el receptor (quién la recibe) se transmite una oferta de valor comercial.',
     },
     {
-      termino: 'Moda',
+      termino: 'Empatía',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'Principio básico de las ventas, consiste en ponerse en el lugar del otro, sin perder la objetividad.',
     },
     {
-      termino: 'DIseño',
+      termino: 'Guion',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Herramienta utilizada por los agentes de ventas telefónicas para guiar la conversación con el cliente.',
     },
     {
-      termino: 'Diseña',
+      termino: 'Negociación',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Proceso comunicacional entre dos o más partes, cuyo fin es llegar a un acuerdo.',
     },
     {
-      termino: 'Tipología',
+      termino: 'Neuro ventas',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'Ciencia que relaciona el conocimiento científico del cerebro humano para entender los comportamientos e incluso predecirlos con el fin de poner en práctica mejores modelos comerciales.',
     },
     {
-      termino: 'Bidimensional',
+      termino: 'Objeciones',
       significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
+        'Mecanismos utilizados por los clientes para ahondar en el proceso de ventas, ya sea para conocer y validar información o para desistir de la transacción.',
     },
     {
-      termino: 'Interés Inferior del menor',
+      termino: 'Portafolio',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Conjunto de bienes y servicios que ofrece una empresa al mercado.',
     },
     {
-      termino: 'Interseccionalidad',
+      termino: 'Técnicas de ventas',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Herramientas comerciales que dan lineamientos sobre cómo desarrollar un proceso de venta.',
     },
     {
-      termino: 'Interés superior del menor',
+      termino: 'Venta',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Transacción comercial donde debe darse una relación gana- gana, entre el vendedor y el cliente.',
+    },
+    {
+      termino: 'Venta telefónica',
+      significado:
+        'Tipo de venta a distancia en donde se hace uso de teléfonos o aplicativos informáticos como canal de venta.',
     },
   ],
   complementario: [
     {
       texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Dominancias cerebrales. Muñoz, J.; Gutiérrez, P. y Serrato, R. (2012). Los hemisferios cerebrales: dos estilos de pensar, dos modos de enseñar y aprender. Estilos de aprendizaje. Investigaciones y experiencias. Universidad de Córdoba. ',
+      tipo: 'PDF',
+      link: 'https://dialnet.unirioja.es/descarga/articulo/4664049.pdf',
+    },
+    {
+      texto: 'Portafolio de la empresa. Corporación Diana.  (s.f.).',
+      tipo: 'Página web',
+      link: 'https://grupodiana.co/',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Técnicas de ventas. Navarro, M. (2012). Técnicas de Ventas. Red Tercer Milenio.',
+      tipo: 'Libro digital',
+      link:
+        'http://www.aliat.org.mx/BibliotecasDigitales/economico_administrativo/Tecnicas_de_venta.pdf',
     },
   ],
   creditos: {
@@ -308,6 +277,31 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
+
+      {
+        nombre: 'Diana Carolina Jaramillo Rojas',
+        cargo: 'Experta Temática',
+        centro: 'Centro de Comercio - Regional Antioquia',
+      },
+      {
+        nombre: 'Adriana López',
+        cargo: 'Diseñadora Instruccional',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
+      },
+      {
+        nombre: 'Ana Catalina Córdoba Sus',
+        cargo: 'Revisora Metodológica y Pedagógica',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
+      },
+
+      {
+        nombre: 'Jhon Jairo Rodríguez Pérez',
+        cargo: 'Diseñador y evaluador instruccional',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
+      },
     ],
     desarrolloProducto: [
       {
@@ -322,22 +316,22 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'Luis Arévalo',
         cargo: 'Diseño web',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Desarrollo Front-End',
+        nombre: 'Andrés Mauricio Santaella ochoa',
+        cargo: 'Soporte front-end',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Producción audiovisual',
+        nombre: 'Jorge Leonardo Camacho Pardo',
+        cargo: 'Desarrollo front-end',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Nombre',
