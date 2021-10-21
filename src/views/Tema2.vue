@@ -43,7 +43,7 @@
         .row.mb-4.align-self-center(data-aos="fade-left")
 
           .col-lg-7.img-c.pll.align-self-center
-            p Es el famoso “moment of truth” (momento de verdad), es decir, allí se tiene el contacto con el cliente (a través de cualquier medio presencial o virtual), se realiza la presentación del portafolio a ofrecer, se resuelve sus inquietudes y se espera que el vendedor llegue al objetivo de esta etapa: el cierre de la venta, es decir, cuando el cliente acepta adquirir el bien/ servicio. En la venta se aplican las técnicas de ventas, se debaten objeciones se implementan modelos de negociación según cómo se vaya desarrollando el proceso y se realizan todos los esfuerzos comerciales para que el prospecto diga “si” voy a comprar el producto.
+            p Es el famoso <em>“moment of truth”</em> (momento de verdad), es decir, allí se tiene el contacto con el cliente (a través de cualquier medio presencial o virtual), se realiza la presentación del portafolio a ofrecer, se resuelve sus inquietudes y se espera que el vendedor llegue al objetivo de esta etapa: el cierre de la venta, es decir, cuando el cliente acepta adquirir el bien/ servicio. En la venta se aplican las técnicas de ventas, se debaten objeciones se implementan modelos de negociación según cómo se vaya desarrollando el proceso y se realizan todos los esfuerzos comerciales para que el prospecto diga “si” voy a comprar el producto.
           .col-lg-5
             figure
               img.img-350(src='@/assets/tema2/img-3.png')            

@@ -31,7 +31,7 @@
       .col-lg-10.align-self-center
         .row.justify-content-around
           figure
-            img(src='@/assets/tema4/img-3.svg')  
+            img(src='@/assets/tema4/img-3.png')  
     p.mb-5 Posteriormente, a través del modelo de Paul MacLean, se identifican tres tipos de cerebros, ver la figura 2:
     .row.justify-content-around.align-items-center.mb-5.fnd-3.p-4(data-aos="flip-up")
       .col-lg-10.align-self-center
@@ -40,7 +40,7 @@
           ImagenInfografica.color-secundario.mb-5
             template(v-slot:imagen)
               figure
-                img(src='@/assets/tema4/img-4-.svg')
+                img(src='@/assets/tema4/img-4.svg')
 
             .tarjeta.color-secundario.p-3(x="25%" y="7.5%")
               .h5.mb-2 Cerebro neocórtex
@@ -56,15 +56,15 @@
               p El cual está enfocado en la satisfacción de las necesidades básicas, por tanto, es el enfocado en la supervivencia y, es impulsivo..
 
     p.mb-5 Y por último, Herrmann hace mención a la existencia de cuatro tipo de dominancias cerebrales: lógico, organizador, creativo y emocional, como se muestra en la siguiente figura 3.
-    p.r-n Figura 3. Dominancias cerebrales
+    p.r-n2 Figura 3. Dominancias cerebrales
 
-    .row.justify-content-around.align-items-center.mb-5.p-4(data-aos="flip-up")
+    .row.justify-content-around.align-items-center.mb-5.px-4(data-aos="flip-up")
       .col-lg-10.align-self-center
         .row.justify-content-around
           ImagenInfografica.color-secundario.mb-5
             template(v-slot:imagen)
               figure
-                img(src='@/assets/tema4/img-5.svg')
+                img(src='@/assets/tema4/img-5-.svg')
 
             .tarjeta.color-secundario.p-3(x="9%" y="24.5%")
               .h5.mb-2 Perfil Lógico
@@ -90,7 +90,9 @@
       
     .row.mb-4.fnd-4.align-self-center(data-aos="fade-left")
       .col-lg-7.img-c.pll.order-2.order-lg-1 
-        p La venta en sí misma es una transacción entre dos agentes económicos, es un proceso voluntario donde una empresa o persona ofrece de manera legal productos a otra denominada: cliente potencial, buscando que ésta pague el precio esperado. De acuerdo con esto para que se realice una venta debe asegurarse: 
+        p Los estudios del cerebro relacionado con el comportamiento humano y su aplicación en el mercadeo y las ventas, se complementa con el modelo de Cerebro Total de Herrmann.
+        p Este modelo ha sido tan utilizado que incluso ha permitido crear pruebas psicotécnicas aplicables en procesos de selección de personal para el área de ventas, por lo que es interesante aplicar el cuestionario para conocer qué tipo de vendedor es.
+
 
       .col-lg-5.align-self-center.order-1.order-lg-2 
         figure

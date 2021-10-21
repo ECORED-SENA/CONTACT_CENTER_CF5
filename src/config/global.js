@@ -30,7 +30,7 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Producción Audiovisual',
+        titulo: 'El ciclo de la venta',
         desarrolloContenidos: true,
       },
       {
@@ -150,23 +150,23 @@ export default {
   referencias: [
     {
       referencia:
-        'Ardila, E. (1984), Técnicas de ventas: objeciones.  Servicio Nacional de Aprendizaje. p. 9- 12.',
+        'Ardila, E. (1984), Técnicas de ventas: objeciones.  Servicio Nacional de Aprendizaje. p. 9- 12.    ',
       link: 'https://hdl.handle.net/11404/1900',
     },
     {
       referencia:
-        'Diccionario de la Real Academia de la Lengua Española- RAE-.. Término Objeción. objeción | Definición | Diccionario de la lengua española | RAE - ASALE',
+        'Diccionario de la Real Academia de la Lengua Española- RAE-.. Término Objeción. objeción | Definición | Diccionario de la lengua española | RAE - ASALE.    ',
       link: 'https://dle.rae.es/?w=objeci%C3%B3n&origen=REDLE',
     },
 
     {
       referencia:
-        'Muñoz, J.; Gutiérrez, P. y Serrato, R. (2012). Los hemisferios cerebrales: dos estilos de pensar, dos modos de enseñar y aprender. Estilos de aprendizaje. Investigaciones y experiencias. Universidad de Córdoba.',
+        'Muñoz, J.; Gutiérrez, P. y Serrato, R. (2012). Los hemisferios cerebrales: dos estilos de pensar, dos modos de enseñar y aprender. Estilos de aprendizaje. Investigaciones y experiencias. Universidad de Córdoba.    ',
       link: 'https://dialnet.unirioja.es/descarga/articulo/4664049.pdf',
     },
     {
       referencia:
-        'Navarro, M. (2012). Técnicas de Ventas. Red Tercer Milenio. ',
+        'Navarro, M. (2012). Técnicas de Ventas. Red Tercer Milenio.    ',
       link:
         'http://www.aliat.org.mx/BibliotecasDigitales/economico_administrativo/Tecnicas_de_venta.pdf',
     },
@@ -334,7 +334,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Yuli Marcela Gómez Tarazona',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

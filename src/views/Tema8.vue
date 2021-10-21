@@ -158,7 +158,7 @@
           .tarjeta.fnd-10
             img.img-100(src='@/assets/tema8/img-21.svg' alt='AvatarTop')
             .p-4
-              p Los guiones son elaborados siguiendo un orden, por tanto, se sugiere seguir la estructura propuesta para garantizar la calidad de la llamada, en caso de modificarse, tener presente que ítems. no se han desarrollado y abordarlos antes de finalizar la llamada
+              p Los guiones son elaborados siguiendo un orden, por tanto, se sugiere seguir la estructura propuesta para garantizar la calidad de la llamada, en caso de modificarse, tener presente que ítems. no se han desarrollado y abordarlos antes de finalizar la llamada.
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
           .tarjeta.fnd-10

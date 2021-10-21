@@ -51,6 +51,7 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     #t_6_1.titulo-segundo
       h2 6.1 Técnicas de ventas más utilizadas
+    p Existen muchos tipos de técnicas de ventas, algunas están diseñadas a partir de variables claves del proceso, y otras a partir del enfoque, no obstante, no hay una mejor que otra, ya que la selección de la más idónea a utilizar debe realizarse teniendo en cuenta: cómo es el modelo comercial de la empresa, con qué tipo de clientes se está tratando y cuál es el tipo de portafolio a ofrecer. Las más conocidas en el mercado son:
 
     .row.mb-5.fnd-2-(data-aos="fade-right")
       .col-lg-4.align-self-center
@@ -62,14 +63,13 @@
                                 
     .row.mb-5
       .col-md-6.mb-5.mb-md-0
-        //- LineaTiempoD debe ir acompañado de una de una de estas clases => 
-        //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
+
         LineaTiempoD.color-primario
-          p.text-small(numero="1" titulo="Características") Se describe el bien o servicio que se está ofreciendo, aquí se da respuesta al qué.
+          p.text-small(numero="1" titulo="Características") Se describe el bien o servicio que se está ofreciendo, aquí se da respuesta al ¿Qué?.
           
-          p.text-small(numero="2" titulo="Ventajas") Consiste en narrar (o demostrar si es posible), siempre desde preceptos éticos, porque el producto que se está ofreciendo es mejor que otras opciones que existen en el mercado, se responde al <b>“por qué es mejor”</b>.
+          p.text-small(numero="2" titulo="Ventajas") Consiste en narrar (o demostrar si es posible), siempre desde preceptos éticos, ¿Por qué el producto que se está ofreciendo es mejor que otras opciones que existen en el mercado?, se responde al <b>¿Por qué es mejor?</b>.
           
-          p.text-small(numero="3" titulo="Beneficios") El interrogante a resolver es el para qué, es decir, que es aquello (tangible o intangible) que obtendrá la persona o empresa que adquiera el producto.
+          p.text-small(numero="3" titulo="Beneficios") El interrogante a resolver es el ¿Para qué?, es decir, que es aquello (tangible o intangible) que obtendrá la persona o empresa que adquiera el producto.
       .col-md-6.mb-5.mb-md-0.align-self-center(data-aos="fade-left")
         figure
           img.img-c.img-400(src='@/assets/tema6/img-7.svg')             
@@ -175,7 +175,7 @@
     p.mb-5 En el ejemplo anterior, se evidencia, cómo el agente logró captar la atención del cliente potencial con una pregunta que lo puso a pensar, y a partir de ahí establece un discurso de interés, deseo y acción centrado en la protección ante imprevistos y entregando como beneficio la protección de la familia.
 
     h3.mb-5 Situación, Problema, Implicación, Necesidad.
-    p.mb-5 El modelo de Situación, problema, implicación, necesidad más conocido como SPIN (Situation, Problem, Implication y Need pay off por sus siglas en inglés), es una táctica de ventas interesante porque se basa en la resolución de problemas al cliente, y esto es bastante lógico si se parte del concepto que las necesidades están creadas y que justamente el rol del mercadeo y las ventas es satisfacerlas. Nuevamente, las preguntas aparecen como la clave para la buena aplicación del modelo. Conozca a continuación la descripción de cada una de las etapas.
+    p.mb-5 El modelo de Situación, problema, implicación, necesidad más conocido como SPIN (<em>Situation, Problem, Implication</em> y <em>Need pay off</em> por sus siglas en inglés), es una táctica de ventas interesante porque se basa en la resolución de problemas al cliente, y esto es bastante lógico si se parte del concepto que las necesidades están creadas y que justamente el rol del mercadeo y las ventas es satisfacerlas. Nuevamente, las preguntas aparecen como la clave para la buena aplicación del modelo. Conozca a continuación la descripción de cada una de las etapas.
 
 
     .row.mb-5
@@ -183,7 +183,7 @@
         LineaTiempoD.color-primario
           p.text-small(numero="1" titulo="Situación") Se debe obtener información del cliente para determinar las condiciones que lo rodean.
           
-          p.text-small(numero="2" titulo="Problema") El centro de este momento es identificar cuál es la dificultad que el cliente afronta, es decir cuál es la situación que está presentando.
+          p.text-small(numero="2" titulo="Problema") El centro de este momento es identificar ¿Cuál es la dificultad que el cliente afronta?, es decir ¿Cuál es la situación que está presentando?.
           
           p.text-small(numero="3" titulo="Deseo") El reto del vendedor, se centra en convertir en necesario y/o aspiracional el producto, alentar al cliente a que quiera adquirir el portafolio que se está ofreciendo.
 
@@ -234,7 +234,7 @@
         hr                 
 
     h4.mb-5 Simple, invaluable, alineado con sus intereses, de prioridad.
-    p.mb-5 La técnica de ventas Simple, invaluable, alineado con sus intereses, de prioridad más conocida como SNAP (en inglés Simple, Invaluable, Align and Priority), es un modelo que se enfoca en la efectividad, porque se centra en “ponerse en la camiseta del cliente” y está dirigido principalmente a las personas que tienen la facultad de decidir si hacen la compra, a continuación se presentan los elementos importantes: 
+    p.mb-5 La técnica de ventas <em>Simple</em>, invaluable, alineado con sus intereses, de prioridad más conocida como SNAP (en inglés <em>Simple, Invaluable, Align and Priority</em>), es un modelo que se enfoca en la efectividad, porque se centra en “ponerse en la camiseta del cliente” y está dirigido principalmente a las personas que tienen la facultad de decidir si hacen la compra, a continuación se presentan los elementos importantes: 
 
     .row.mb-5
       .col-md-6.mb-5.mb-md-0
@@ -295,7 +295,7 @@
 
     separador
     #t_6_2.titulo-segundo
-      h2 6.2 Técnicas de ventas más utilizadas
+      h2 6.2 Objeciones
 
     .row.mb-4.fnd-4.align-self-center(data-aos="fade-left")
       .col-lg-7.img-c.pll.order-2.order-lg-1 
