@@ -280,18 +280,18 @@ export default {
 
       {
         nombre: 'Diana Carolina Jaramillo Rojas',
-        cargo: 'Experta Temática',
+        cargo: 'Experta temática',
         centro: 'Centro de Comercio - Regional Antioquia',
       },
       {
         nombre: 'Adriana López',
-        cargo: 'Diseñadora Instruccional',
+        cargo: 'Diseñadora instruccional',
         centro:
           'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
       },
       {
         nombre: 'Ana Catalina Córdoba Sus',
-        cargo: 'Revisora Metodológica y Pedagógica',
+        cargo: 'Revisora metodológica y pedagógica',
         centro:
           'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
       },
