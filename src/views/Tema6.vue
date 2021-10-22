@@ -58,7 +58,7 @@
         figure
           img.img-c.img-400(src='@/assets/tema6/img-6.png')    
       .col-lg-8.img-c.pll2
-        p El modelo de Características, ventajas y beneficios, conocido como CBV en español o FAB (features, advantages and benefits en inglés), es conocido por ser una de las técnicas más sencillas y más prácticas. 
+        p El modelo de características, ventajas y beneficios, conocido como CBV en español o FAB (<em>features, advantages and benefits </em> en inglés), es conocido por ser una de las técnicas más sencillas y más prácticas. 
         p Dicho modelo consiste en aplicar con el cliente cada una de las variables del acrónimo, porque de esta manera podrá dar el vendedor un panorama muy amplio, iniciando con el producto y terminando con la descripción de las necesidades que satisface. A continuación se muestran algunos elementos importantes en este modelo.
                                 
     .row.mb-5
