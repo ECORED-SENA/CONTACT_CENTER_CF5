@@ -11,7 +11,7 @@
       
     .row.mb-4.fnd-2.align-self-center(data-aos="fade-left")
       .col-lg-7.img-c.pll.order-2.order-lg-1 
-        p La venta en sí misma es una transacción entre dos agentes económicos, es un proceso voluntario donde una empresa o persona ofrece de manera legal productos a otra denominada: cliente potencial, buscando que ésta pague el precio esperado. De acuerdo con esto para que se realice una venta debe asegurarse: 
+        p La venta en sí misma es una transacción entre dos agentes económicos, es un proceso voluntario donde una empresa o persona ofrece de manera legal productos a otra denominada: cliente potencial, buscando que esta pague el precio esperado. De acuerdo con esto para que se realice una venta debe asegurarse: 
         ul.lista-ul.mb-3
           li 
             i.lista-ul__vineta
