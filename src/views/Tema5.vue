@@ -11,13 +11,12 @@
     .row.mb-5(data-aos="fade-left")
 
       .col-lg-6.mb-5
-        p En lo visto hasta el momento, se ha mostrado información para entender las ventas como un proceso que ha evolucionado conforme avanza el mercado, posteriormente, se enunció el ciclo de la venta, y se hizo mención a la comunicación como elemento clave en las ventas dado que la relación tradicional se da entre dos seres humanos. De allí se dio un contexto sobre las dominancias cerebrales con el fin de reiterar desde un punto de vista científico que todos los seres humanos son diferentes y que, en este orden de ideas, las neuro ventas aparecen como herramienta para ayudar a los vendedores a entender cómo el comportamiento humano se ve influenciado incluso por temas inconscientes.
+        p En lo visto hasta el momento, se ha mostrado información para entender las ventas como un proceso que ha evolucionado conforme avanza el mercado, posteriormente, se enunció el ciclo de la venta, y se hizo mención a la comunicación como elemento clave en las ventas dado que la relación tradicional se da entre dos seres humanos. De allí se dio un contexto sobre las dominancias cerebrales con el fin de reiterar desde un punto de vista científico que todos los seres humanos son diferentes y que, en este orden de ideas, las neuroventas aparecen como herramienta para ayudar a los vendedores a entender cómo el comportamiento humano se ve influenciado incluso por temas inconscientes.
 
         .bloque-texto-b.color-secundario.p-4.fnd
           .bloque-texto-b__texto
             i.fas.txt.fa-quote-left
-            p Para que exista un proceso comercial se debe tener algo que ofrecer al mercado: los productos, es por esta razón que antes de conocer sobre herramientas para vender, debe tenerse claridad en qué es lo que se puede ofrecer a los clientes, dicho de otra manera, se debe tener conocimiento básico sobre producto.
-            p.mb-0 El portafolio (en otros escenarios llamado mezcla de productos o cartera de productos), comprende todos los bienes y servicios que la empresa está en capacidad de ofrecer al mercado, incluyendo categorías y líneas de productos.
+            p Para que exista un proceso comercial se debe tener algo que ofrecer al mercado: los productos, es por esta razón que antes de conocer sobre herramientas para vender, debe tenerse claridad en qué es lo que se puede ofrecer a los clientes, dicho de otra manera, se debe tener conocimiento básico sobre producto. El portafolio (en otros escenarios llamado mezcla de productos o cartera de productos), comprende todos los bienes y servicios que la empresa está en capacidad de ofrecer al mercado, incluyendo categorías y líneas de productos.
             i.fas.txt.fa-quote-right
 
 

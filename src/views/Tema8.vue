@@ -92,7 +92,7 @@
 
     .row.mb-5(data-aos="fade-left")
       .col-lg-6
-        p Si bien el guion es una guía, que de modo general es la recopilación de consideraciones necesarias en la interacción con el cliente, deben tenerse algunas apreciaciones respecto al uso del mismo, ya que dado que, aunque éstos plantean una secuencia lógica desde el punto de vista comercial, como se mencionó previamente, ésta puede modificarse según como se desarrolla la conversación. 
+        p Si bien el guion es una guía, que de modo general es la recopilación de consideraciones necesarias en la interacción con el cliente, deben tenerse algunas apreciaciones respecto al uso del mismo, ya que dado que, aunque estos plantean una secuencia lógica desde el punto de vista comercial, como se mencionó previamente, esta puede modificarse según como se desarrolla la conversación. 
         .row.py-5.bv.px-4 
           p <b>Los elementos sugeridos para un script son:</b> saludo, presentación del agente e indicación de la empresa de la cual se contacta, <b>en Colombia adicional se sugiere (por temas de protección de datos: Ley 1581 de 2012), referenciar brevemente a través de qué medio se obtuvieron los datos para contactar a la persona, referenciar el motivo de la llamada, desarrollar la llamada </b>(según sea el asunto), validar que la información sea clara y despedirse. 
       .col-lg-6     
@@ -158,7 +158,7 @@
           .tarjeta.fnd-10
             img.img-100(src='@/assets/tema8/img-21.svg' alt='AvatarTop')
             .p-4
-              p Los guiones son elaborados siguiendo un orden, por tanto, se sugiere seguir la estructura propuesta para garantizar la calidad de la llamada, en caso de modificarse, tener presente que ítems. no se han desarrollado y abordarlos antes de finalizar la llamada.
+              p Los guiones son elaborados siguiendo un orden, por tanto, se sugiere seguir la estructura propuesta para garantizar la calidad de la llamada, en caso de modificarse, tener presente qué ítems no se han desarrollado y abordarlos antes de finalizar la llamada.
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
           .tarjeta.fnd-10
@@ -239,7 +239,7 @@ export default {
       {
         titulo: 'Ser flexible',
         texto:
-          'Respetando las políticas comerciales de la empresa y de acuerdo con los parámetros generales del guion, el agente de ventas telefónicas, debe permitirse ser flexible',
+          'Respetando las políticas comerciales de la empresa y de acuerdo con los parámetros generales del guion, el agente de ventas telefónicas, debe permitirse ser flexible.',
         icono: require('@/assets/tema8/img-11.svg'),
       },
 

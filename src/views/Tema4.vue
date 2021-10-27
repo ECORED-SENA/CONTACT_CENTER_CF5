@@ -53,9 +53,9 @@
 
             .tarjeta.color-secundario.p-3(x="82.8%" y="56.5%")
               .h5.mb-2 Cerebro reptiliano
-              p El cual está enfocado en la satisfacción de las necesidades básicas, por tanto, es el enfocado en la supervivencia y, es impulsivo..
+              p El cual está enfocado en la satisfacción de las necesidades básicas, por tanto, es el enfocado en la supervivencia y, es impulsivo.
 
-    p.mb-5 Y por último, Herrmann hace mención a la existencia de cuatro tipo de dominancias cerebrales: lógico, organizador, creativo y emocional, como se muestra en la siguiente figura 3.
+    p.mb-5 Y por último, Herrmann hace mención a la existencia de cuatro tipos de dominancias cerebrales: lógico, organizador, creativo y emocional, como se muestra en la siguiente figura 3.
     p.r-n2 Figura 3. Dominancias cerebrales
 
     .row.justify-content-around.align-items-center.mb-5.px-4(data-aos="flip-up")
@@ -83,7 +83,7 @@
 
             .tarjeta.color-secundario.p-3(x="90.5%" y="77.5%")
               .h5.mb-2 Perfil Emocional
-              p Es sentimental, espiritual, comunicativo, expresivo y tal vez poco racional, ya que lo emotivo predomina..
+              p Es sentimental, espiritual, comunicativo, expresivo y tal vez poco racional, ya que lo emotivo predomina.
 
 
 

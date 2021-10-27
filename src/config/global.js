@@ -155,7 +155,7 @@ export default {
     },
     {
       referencia:
-        'Diccionario de la Real Academia de la Lengua Española- RAE-.. Término Objeción. objeción | Definición | Diccionario de la lengua española | RAE - ASALE.    ',
+        'Diccionario de la Real Academia de la Lengua Española- RAE-. Término Objeción. Objeción | Definición | Diccionario de la lengua española | RAE - ASALE.    ',
       link: 'https://dle.rae.es/?w=objeci%C3%B3n&origen=REDLE',
     },
 
@@ -212,7 +212,7 @@ export default {
         'Proceso comunicacional entre dos o más partes, cuyo fin es llegar a un acuerdo.',
     },
     {
-      termino: 'Neuro ventas',
+      termino: 'Neuroventas',
       significado:
         'Ciencia que relaciona el conocimiento científico del cerebro humano para entender los comportamientos e incluso predecirlos con el fin de poner en práctica mejores modelos comerciales.',
     },

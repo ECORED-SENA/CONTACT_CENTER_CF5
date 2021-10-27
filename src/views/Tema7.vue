@@ -73,7 +73,7 @@
             h4.py-3 Modelo MAAN
             p En español conocido como Mejor Alternativa al Acuerdo Negociado o BATNA  (Best Alternative To a Negotiated Agreement en inglés), en este modelo, acuñado a Roger Fisher  y William Ury, se plantea que el objetivo es tratar de obtener un acuerdo donde se logre el máximo beneficio posible. 
             p Para aplicar el modelo, cada una de las partes debe listar todas las alternativas que considere viables, posteriormente y por separado cada uno evalúa una a una las opciones y a partir de allí establecen dos opciones:
-            p La primera la cual se considera la ganadora, es decir, aquella con la cual se va a entrar a negociar y una segunda opción entendida como la que se utilizará sino se logra asegurar la primera opción (lo que comúnmente se denomina el plan B), que a pesar de no ser “el mundo ideal” representa una opción técnicamente viable.
+            p La primera la cual se considera la ganadora, es decir, aquella con la cual se va a entrar a negociar y una segunda opción entendida como la que se utilizará si no se logra asegurar la primera opción (lo que comúnmente se denomina el plan B), que a pesar de no ser “el mundo ideal” representa una opción técnicamente viable.
             p A continuación, estudiemos un ejemplo.
 
         

@@ -69,7 +69,7 @@
           
           p.text-small(numero="2" titulo="Ventajas") Consiste en narrar (o demostrar si es posible), siempre desde preceptos éticos, ¿Por qué el producto que se está ofreciendo es mejor que otras opciones que existen en el mercado?, se responde al <b>¿Por qué es mejor?</b>.
           
-          p.text-small(numero="3" titulo="Beneficios") El interrogante a resolver es el ¿Para qué?, es decir, que es aquello (tangible o intangible) que obtendrá la persona o empresa que adquiera el producto.
+          p.text-small(numero="3" titulo="Beneficios") El interrogante a resolver es el ¿Para qué?, es decir, qué es aquello (tangible o intangible) que obtendrá la persona o empresa que adquiera el producto.
       .col-md-6.mb-5.mb-md-0.align-self-center(data-aos="fade-left")
         figure
           img.img-c.img-400(src='@/assets/tema6/img-7.svg')             
@@ -145,7 +145,7 @@
               h4.cc3 1
           .crd_02__txt
             h4 Atención
-            p Señor, ¿se ha preguntado que pasaría con su familia si lastimosamente e inesperadamente usted falleciera? O ¿Si de pronto sufriera algún tipo de accidente que lo dejara con alguna secuela y afectará su desempeño laboral?
+            p Señor, ¿se ha preguntado qué pasaría con su familia si lastimosamente e inesperadamente usted falleciera? O ¿Si de pronto sufriera algún tipo de accidente que lo dejara con alguna secuela y afectara su desempeño laboral?
         hr 
         .crd_02
           .crd_02__icon.mx-4
@@ -299,7 +299,7 @@
 
     .row.mb-4.fnd-4.align-self-center(data-aos="fade-left")
       .col-lg-7.img-c.pll.order-2.order-lg-1 
-        p Es importante tener presente que no todo en el proceso comercial es tan lineal, dado que, al interactuar con el cliente potencial, éste probablemente manifieste no entender lo que se le está explicando, tener dudas o incluso, requerir más información, es por ello que surgen las objeciones.
+        p Es importante tener presente que no todo en el proceso comercial es tan lineal, dado que, al interactuar con el cliente potencial, este probablemente manifieste no entender lo que se le está explicando, tener dudas o incluso, requerir más información, es por ello que surgen las objeciones.
 
       .col-lg-5.align-self-center.order-1.order-lg-2 
         figure
